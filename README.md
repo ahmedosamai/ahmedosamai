@@ -7,15 +7,8 @@ My academic journey is focused on Computer Science and Artificial Intelligence ,
 I’m deeply curious about the details — from the math behind algorithms to how ML models work under the hood.
 Instead of just using tools, I love breaking concepts down and understanding them thoroughly.
 
-## 🔧 Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
+ 🔧 Skills
+![My Skills](https://skillicons.dev/icons?i=python,git,github,linux,java,kotlin,tensorflow)
 
 
 
