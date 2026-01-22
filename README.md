@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Osama
 
-<!--
-**ahmedosamai/ahmedosamai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🤖 Interested in Machine Learning & Neural Networks  
+🧪 Learning Software Testing & QA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+![My Skills](https://skillicons.dev/icons?i=python,git,github,linux,java,kotlin)
+
+---
+
+## 📂 Projects
+- 🚧 Working on ML & Neural Network practice projects
+- 🚧 Problem Solving with Python
+
+---
+
+## 📚 Currently Learning
+- Linear Regression & Neural Networks (from scratch)
+- ML basics
+- Software Testing fundamentals
+
+---
+
+## 📫 Contact Me
+- 📧 Email: ahmedosama2555222@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-osama
