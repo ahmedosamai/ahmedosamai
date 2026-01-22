@@ -1,29 +1,19 @@
-# 👋 Hi, I'm Ahmed Osama
+Hi there, I'm Ahmed
 
-🎓 Computer Science Student  
-🤖 Interested in Machine Learning & Neural Networks  
-🧪 Learning Software Testing & QA  
+🚀 Aspiring Machine Learning Engineer
 
----
+My academic journey is focused on Computer Science and Artificial Intelligence ,My passion lies in Machine Learning and Deep Learning
+
+I’m deeply curious about the details — from the math behind algorithms to how ML models work under the hood.
+Instead of just using tools, I love breaking concepts down and understanding them thoroughly.
 
 ## 🔧 Skills
 ![My Skills](https://skillicons.dev/icons?i=python,git,github,linux,java,kotlin)
 
 ---
 
-## 📂 Projects
-- 🚧 Working on ML & Neural Network practice projects
-- 🚧 Problem Solving with Python
 
----
 
-## 📚 Currently Learning
-- Linear Regression & Neural Networks (from scratch)
-- ML basics
-- Software Testing fundamentals
+ 📫 Contact Me
+ 📧 Email: ahmedosama2555222@gmail.com  
 
----
-
-## 📫 Contact Me
-- 📧 Email: ahmedosama2555222@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-osama
